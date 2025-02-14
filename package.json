@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@wormhole-foundation/wormhole-connect": "^1.1.10",
-    "next": "14.2.13",
+    "@wormhole-foundation/wormhole-connect": "2.1.0-beta.1-development",
+    "next": "15.1.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
